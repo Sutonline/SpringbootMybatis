@@ -1,0 +1,12 @@
+*.iml
+*.ipr
+*.iws
+*.ids
+*.log.*
+.DS_Store
+pom.xml.releaseBackup
+release.properties
+.idea/
+.cache/
+target/
+.project
